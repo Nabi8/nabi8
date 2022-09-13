@@ -1,4 +1,4 @@
-### Olá! Eu sou a Ruthe Xavier
+### Olá! Eu sou a Ruthe Xavier!
 
  <div align="center">
   <a href="https://github.com/Nabi8">
